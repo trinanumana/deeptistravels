@@ -44,6 +44,12 @@ h1 {
 
 }
 
+.row1 {
+
+	display: flex;
+
+}
+
 .rect {
 
 	width: 15%;
