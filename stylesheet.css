@@ -58,6 +58,13 @@ h1 {
 
 }
 
+.para {
+
+	display:block;
+	font-size: 20px;
+
+}
+
 .rect {
 
 	width: 15%;
