@@ -2,21 +2,9 @@ body {
 
 	background-color: #FFF6e8;
 	font-family: 'Crimson Text', serif;
-	display:table-cell;
-	horizontal-align:middle;
+	text-align: center;
+	
 }
-html, body{
-	height:100%;
-}
-html{
-	display:table;
-	margin:auto;
-}
-/* Start http://www.cursors-4u.com */
-body a:hover {
-	cursor: url(http://cur.cursors-4u.net/mechanics/mec-1/mec30.cur), progress !important;
-}
-/* End http://www.cursors-4u.com */
 
 header {
 
