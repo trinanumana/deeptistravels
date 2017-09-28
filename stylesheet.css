@@ -45,10 +45,15 @@ h1 {
 
 }
 
+.flex-container {
+
+	text-align: center;
+
+}
+
 .row1 {
 
 	display: flex;
-	text-align: center;
 
 }
 
