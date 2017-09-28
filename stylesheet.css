@@ -1,5 +1,6 @@
-body {
+/*Regular Layout*/
 
+body {
 	background-color: #FFF6e8;
 	font-family: 'Crimson Text', serif;
 	text-align: center;
@@ -85,4 +86,12 @@ h1 {
 	display: flex;
 	align-items: center;
 	
-}	
+}
+
+/*Mobile Layout*/
+
+@media screen and (max-width: 680px) {
+
+	
+
+}
