@@ -114,7 +114,7 @@ h1 {
 }
 .row1, .row2, .row2pt2 {
 
-	display: flex;
+	display: block;
 	justify-content: center;
 
 }
