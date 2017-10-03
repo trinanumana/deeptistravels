@@ -99,7 +99,7 @@ h1 {
 
 	width: 30%;
 	height: 20%;
-	justify-content: center;
+	text-align: center;
 	
 }
 
@@ -116,19 +116,19 @@ h1 {
 	
 	h1 {
 	
-		font-size: 20%;
+		font-size: 20px;
 	
 	}
 	
 	.para {
-		font-size: 18%;
+		font-size: 18px;
 		
 	}
 	
 	.row1, .row2, .row2pt2 {
 
 		display: block;
-		justify-content: center;
+		text-align: center;
 
 	}
 	
