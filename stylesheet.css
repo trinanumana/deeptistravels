@@ -104,7 +104,32 @@ h1 {
 
 /*Mobile Layout*/
 
-@media screen and (max-width: 913px) {
-
+@media screen and (max-width: 700px) {
+	body {
+	background-color: #FFF6e8;
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	display: block;
 	
+}
+.row1, .row2, .row2pt2 {
+
+	display: flex;
+	justify-content: center;
+
+}
+.rect {
+
+	width: 25%;
+	height: 25%;
+	
+}
+
+.round {
+
+	border-radius: 50%;
+	width: 15%;
+	height: 20%;
+	
+}
 }
