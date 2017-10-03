@@ -114,11 +114,16 @@ h1 {
 	
 	}
 	
-	.header .subheader {
+	.header, .subheader {
 	
-		margin: 1px;
 		color: #9E4511;
 			
+	}
+	
+	.subheader {
+	
+		margin: 1px;
+	
 	}
 	
 	h1 {
