@@ -99,7 +99,6 @@ h1 {
 
 	width: 15%;
 	height: 15%;
-	margin: auto-fill;
 	
 }
 
@@ -161,8 +160,8 @@ h1 {
 	
 	.slideshow {
 	
-		width: 40%;
-		height: 40%;
+		width: 50%;
+		height: 50%;
 		margin: auto-fill;
 		
 	}
