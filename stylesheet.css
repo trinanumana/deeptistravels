@@ -99,6 +99,7 @@ h1 {
 
 	width: 15%;
 	height: 15%;
+	align: center;
 	
 }
 
@@ -162,7 +163,7 @@ h1 {
 	
 		width: 50%;
 		height: 50%;
-		margin: auto-fill;
+		margin: auto;
 		
 	}
 }
