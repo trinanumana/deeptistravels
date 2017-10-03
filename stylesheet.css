@@ -99,6 +99,7 @@ h1 {
 
 	width: 30%;
 	height: 20%;
+	justify-content: center;
 	
 }
 
@@ -106,30 +107,51 @@ h1 {
 
 @media screen and (max-width: 700px) {
 	body {
-	background-color: #FFF6e8;
-	font-family: 'Crimson Text', serif;
-	text-align: center;
-	display: block;
+		background-color: #FFF6e8;
+		font-family: 'Crimson Text', serif;
+		text-align: center;
+		display: block;
 	
-}
-.row1, .row2, .row2pt2 {
-
-	display: block;
-	justify-content: center;
-
-}
-.rect {
-
-	width: 25%;
-	height: 25%;
+	}
 	
-}
-
-.round {
-
-	border-radius: 50%;
-	width: 15%;
-	height: 20%;
+	h1 {
 	
-}
+		font-size: 20%;
+	
+	}
+	
+	.para {
+		font-size: 18%;
+		
+	}
+	
+	.row1, .row2, .row2pt2 {
+
+		display: block;
+		justify-content: center;
+
+	}
+	
+	.rect {
+
+		width: 25%;
+		height: 25%;
+	
+	}
+
+	.round {
+
+		border-radius: 50%;
+		width: 15%;
+		height: 20%;
+	
+	}
+	
+	.slideshow {
+	
+		width: 30%;
+		height: 20%;
+		justify-content: center;
+		
+	}
 }
