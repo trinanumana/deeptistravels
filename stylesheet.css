@@ -95,6 +95,13 @@ h1 {
 	
 }
 
+.slideshow {
+
+	width: 30%;
+	height: 20%;
+	
+}
+
 /*Mobile Layout*/
 
 @media screen and (max-width: 913px) {
