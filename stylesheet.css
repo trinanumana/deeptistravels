@@ -99,7 +99,18 @@ h1 {
 
 @media screen and (max-width: 913px) {
 
-	.rect, .round, .body { 
-		width:100%
+	rect. {
+	
+		width:20%;
+		height: 25%;
+	
 	}
+	
+	.round {
+	
+		border-radius: 50;
+		width: 20%;
+		height: 25%;
+	}
+
 }
