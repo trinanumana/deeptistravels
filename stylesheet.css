@@ -99,7 +99,7 @@ h1 {
 
 	width: 30%;
 	height: 20%;
-	text-align: center;
+	margin: auto-fill;
 	
 }
 
@@ -112,6 +112,13 @@ h1 {
 		text-align: center;
 		display: block;
 	
+	}
+	
+	.header {
+	
+		margin: 1px;
+		color: #9E4511;
+			
 	}
 	
 	h1 {
@@ -149,9 +156,9 @@ h1 {
 	
 	.slideshow {
 	
-		width: 30%;
-		height: 20%;
-		justify-content: center;
+		width: 40%;
+		height: 40%;
+		margin: auto-fill;
 		
 	}
 }
