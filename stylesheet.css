@@ -53,6 +53,12 @@ h1 {
 
 }
 
+.row1 {
+
+	display: flex;
+	justify-content: center;
+
+}
 
 .para {
 
@@ -82,14 +88,19 @@ h1 {
 
 }
 
-.row {	
+.row2, .row2pt2 {
+	
 	display: flex;
 	justify-content: center;
-	padding-top: 2%;
-	margin-bottom: 5%;
 	
 }
 
+.row2pt2 {
+
+	padding-top: 2%;
+	margin-bottom: 5%;
+
+}
 
 .slideshow {
 
@@ -131,7 +142,7 @@ h1 {
 		
 	}
 	
-	.row1 {
+	.row1, .row2, .row2pt2 {
 
 		display: block;
 		text-align: center;
